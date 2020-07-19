@@ -2,7 +2,7 @@ Just trying out the fancy new profile support. I am an open source software deve
 
 I am a physicist by training, completing a degree and Ph.D. in physics focusing on nanomaterial engineering. I used lots of materials characterization techniques including transmission electron microscopy, atomic force microscopy, X-ray and neutron techniques (mainly diffraction and reflectometry) as an experimentalist before making the leap to software.
 
-I love science and software, living in the space the two occupy. I [blog][blog], am active on social media, and love fast cars and motorbikes. I one gave a TEDx talk ['Open Up or Perish'][tedx] shortly after my daughter was born that sums up my hopes for how we move science forward. Started out as a Google Summer of Code student, and now mentor/org admin.
+I love science and software, living in the space the two occupy. I [blog][blog], am active on social media, and love fast cars and motorbikes. I once gave a TEDx talk ['Open Up or Perish'][tedx] shortly after my daughter was born that sums up my hopes for how we move science forward. Started out as a Google Summer of Code student, and now mentor/org admin.
 
 Views here are my own.
 
