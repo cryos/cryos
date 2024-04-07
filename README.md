@@ -4,7 +4,7 @@ I am passionate about writing portable, highly performant software that can run 
 
 I am a physicist by training, completing a B.Sc. and Ph.D. in physics focusing on nanomaterial engineering. I used lots of materials characterization techniques including transmission electron microscopy, atomic force microscopy, X-ray and neutron techniques (mainly diffraction and reflectometry) as an experimentalist before making the leap to software. At the end of my Ph.D. I took part in Google Summer of Code as a student, then later a mentor and org admin.
 
-I love science and software, trying to figure out where I might exist in the space the two occupy. I once gave a TEDx talk ['Open Up or Perish'][tedx] shortly after my daughter was born that sums up my hopes for how we move science forward. I have given a few keynotes, many invited talks and many conference talks at software, open source and scientific conferences including OSCON, GTC, All Things Open, ACS, APS, ToScA, M&S, MRS and others.
+I love science and software, trying to figure out where I might exist in the space the two occupy. I once gave a TEDx talk ['Open Up or Perish'][tedx] shortly after my daughter was born that sums up my hopes for how we move science forward. I have given a few keynotes, many invited talks and many conference talks at software, open source and scientific conferences including OSCON, GTC, All Things Open, ACS, APS, ToScA, M&M, MRS and others.
 
 Views are my own (obviously I would hope).
 
